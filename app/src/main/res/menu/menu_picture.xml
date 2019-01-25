@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/menu_picture_download"
+        android:icon="@drawable/ic_file_download"
+        android:title="@string/picture_menu_download"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:visible="false"
+        tools:visible="true"/>
+
+    <item
+        android:id="@+id/menu_picture_source"
+        android:title="@string/picture_menu_source"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom"
+        android:visible="false"
+        tools:visible="true"/>
+
+</menu>

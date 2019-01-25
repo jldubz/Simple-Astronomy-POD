@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#311B92</color>
+    <color name="semiTransColorPrimary">#BB311B92</color>
+    <color name="colorPrimaryDark">#000063</color>
+    <color name="colorAccent">#6746C3</color>
+
+    <color name="complementaryColor">#7c921b</color>
+    <color name="analogousColor1">#1b4192</color>
+    <color name="analogousColor2">#6c1b92</color>
+    <color name="triadicColor1">#921b7c</color>
+    <color name="triadicColor2">#92311b</color>
+</resources>
